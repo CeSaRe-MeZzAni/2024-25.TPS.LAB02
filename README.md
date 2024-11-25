@@ -4,3 +4,4 @@
 ## central-east
 - Ealing Broadway
 - west acton
+- East acton
