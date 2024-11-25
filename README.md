@@ -19,3 +19,4 @@
 - Mille End
 ## hammersmith-city-east
 - Wood Lane
+- Latimer Road
