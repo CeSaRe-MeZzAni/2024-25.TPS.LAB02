@@ -20,3 +20,4 @@
 ## hammersmith-city-east
 - Wood Lane
 - Latimer Road
+- Ladbroke Grove
